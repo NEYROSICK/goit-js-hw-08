@@ -10,8 +10,10 @@
   grid-auto-rows: 240px;
   grid-gap: 12px;
   justify-content: center;
+  padding: 0;
   margin-left: auto;
   margin-right: auto;
+  list-style-type: none;
 }
 
 .gallery__item {
